@@ -1,5 +1,5 @@
 
-# Birds VS Drones Detection Using CNN - GRAD-CAM
+# Birds VS Drones Detection Using CNN & GRAD-CAM
 
 This project aims to develop a Convolutional Neural Network (CNN) model to classify images of birds and drones. The model is enhanced with the GRAD-CAM technique for visual explainability, helping to interpret the decisions made by the neural network.
 
